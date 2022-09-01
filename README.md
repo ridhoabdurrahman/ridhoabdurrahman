@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="#">Ridho Abdurrahman</a></h1>
+<h1 align="center">Hi, I'm <a href="#">Ridho Abdurrahman</a></h1>
 <h3 align="center">A passionate Mobile App & Web developer from Indonesia</h3>
 <br/>
 <a target="_blank" align="center">
