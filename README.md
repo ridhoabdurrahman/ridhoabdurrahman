@@ -22,7 +22,7 @@
 <h3 align="center"> 🤝 Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ridhoabdurrahman/">
+      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-ridho-abdurrahman/">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://github.com/ridhoabdurrahman">
