@@ -5,9 +5,9 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in Home
+- 🔭 I’m currently working in Banking Industry
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Backend (Springboot)
 
 - 🤝 I’m available for freelancing.
 
